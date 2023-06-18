@@ -1,6 +1,6 @@
 # mhzukan
 
-<img width="1162" width="500" alt="beer" src="https://github.com/o-ga09/flutter-mh-zukan/assets/54522966/990ab4df-e802-4672-a1e1-0966c80f2083">
+<img width="1162" width="300" alt="beer" src="https://github.com/o-ga09/flutter-mh-zukan/assets/54522966/990ab4df-e802-4672-a1e1-0966c80f2083">
 
 ## flutterアプリをハンズオンではなく一から自分で作成するリポジトリ
 
