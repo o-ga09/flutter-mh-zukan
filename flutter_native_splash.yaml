@@ -1,0 +1,3 @@
+flutter_native_splash:
+  image: assets/WallPaper_pochama_1200_1920.png
+  color: "42a5f5" # スプラッシュスクリーンの背景色を指定（オプション）
