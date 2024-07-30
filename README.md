@@ -1,13 +1,19 @@
-# mhzukan
+# モンスターハンター図鑑アプリを作る
 
-<img alt="beer" src="https://github.com/o-ga09/flutter-mh-zukan/assets/54522966/83958bf1-cbb8-4323-a853-7ed1d8d514cc">
+![alt text](./docs/image.png)
 
-## flutterアプリをハンズオンではなく一から自分で作成するリポジトリ
+---
 
-参考にするサイト
+## Build and Run
 
-https://zenn.dev/koudai/articles/8ee15d10008f55
+```
+$ flutter build
+```
 
-参考にするリポジトリ
+```
+$ flutter run
+```
 
-https://github.com/f-nakahara/flutter-clean-architecture
+## 参考／Reference
+
+[MIXI新卒研修Flutter2024](https://speakerdeck.com/mixi_engineers/2024-new-grad-training-flutter)
